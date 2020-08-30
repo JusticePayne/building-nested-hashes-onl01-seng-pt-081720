@@ -13,6 +13,4 @@ def third_challenge
       :heroine_friends => [{:name "Steven", age: "30", attiude: "confused"}, {:name "Nurse", age: "44", attiude: "worried"}]
    }
   }
-
-
 end
